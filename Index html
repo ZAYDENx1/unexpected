@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b0b0f">
+  <title>UNEXPECTED — Play Beyond Ordinary</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>UNEXPECTED<span>.</span></h1>
+    <p>PLAY BEYOND ORDINARY.</p>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">YOUR NEXT EXPERIENCE STARTS HERE</p>
+      <h2>Expect the<br>unexpected.</h2>
+      <p class="description">
+        Strange worlds. Impossible choices.
+        Experiences you won't see coming.
+      </p>
+      <button id="startButton">Enter the unexpected →</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>UNEXPECTED © 2026</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
